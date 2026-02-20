@@ -90,7 +90,7 @@ cloudcore-saas-itsm/
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/TU_USUARIO/cloudcore-saas-itsm.git
+git clone https://github.com/dani9873/cloudcore-saas-itsm.git
 cd cloudcore-saas-itsm
 ```
 
